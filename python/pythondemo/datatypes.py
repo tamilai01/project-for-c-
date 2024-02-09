@@ -52,7 +52,12 @@ print(10<5);
 print(5>2);
 print(7==7);
 
+
+#slicing
 slice="snakebabu"
 print(slice[5:])
 print(slice[2:5])
 print(slice[5:8])
+ 
+                                 
+                    
